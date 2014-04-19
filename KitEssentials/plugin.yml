@@ -1,0 +1,16 @@
+name: KitEssentials
+author: MirrorRealm
+version: 0.1
+main: me.MirrorRealm.kKits.Main
+commands:
+   kit:
+   createkit:
+      aliases: [ck]
+   drop:
+   kits:
+   deldrop:
+   savedrop:
+   reloadkits:
+      aliases: [rk]
+   delkit:
+      aliases: [deletekit]

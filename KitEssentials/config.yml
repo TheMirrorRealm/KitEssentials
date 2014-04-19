@@ -1,0 +1,19 @@
+# true/false - Should drops be cleared upon player death?
+clear-drops-on-death: false
+
+
+
+   # When you create a kit, a default item will be automatically made in this GUI section for you.
+   # (If you haven't made any kit, you won't understand what this section is about)
+   # If you'd like to edit any of the features of the default item, here is how:
+
+   # info: "ITEM-ID : DATA-VALUE : SLOT-NUMBER : ITEMS-NAME"
+
+   # lore:
+   #    - "&bFeel free to"
+   #    - "&cAdd line to the lore"
+   #    - "&9And any color codes."
+
+gui:
+   # Title of the GUI's inventory.
+   gui-name: "&cKits"
